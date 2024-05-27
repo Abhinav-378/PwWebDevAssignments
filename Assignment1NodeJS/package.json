@@ -1,0 +1,14 @@
+{
+  "name": "ques1",
+  "version": "1.0.1",
+  "description": "question 1 of assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pw"
+  ],
+  "author": "abhi",
+  "license": "ISC"
+}
