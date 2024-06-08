@@ -1,0 +1,4 @@
+npm init -y
+npm install express mongoose cors dotenv
+
+replace connection string(mongo_url) in .env with correct username and pswd
