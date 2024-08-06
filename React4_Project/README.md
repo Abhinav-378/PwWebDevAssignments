@@ -10,5 +10,8 @@ Currently, two official plugins are available:
 copy the folder into your local env and run ```npm install```
 
 On running ```npm run dev``` on terminal, on localhost:5173 you will see:
-- List of solme github accounts with profile pic and username
-- A search option which diplays github user and entering the username
+- List of solme github accounts with profile pic and username <br>
+  ![image](https://github.com/user-attachments/assets/2cc792ff-4eb2-4a20-b90c-95f31b6eee42)
+  <br>
+- A search option which diplays github user and entering the username <br>
+![image](https://github.com/user-attachments/assets/64685bb9-7d92-4aab-be21-37a5a87f5d37)
